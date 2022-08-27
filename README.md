@@ -1,1 +1,1 @@
-Repo for some image processing experimentation mainly for microbiology and astronomy
+repo for playing around with image processing. Loads of cats will be involved.
